@@ -1,7 +1,7 @@
 
 /*
 
-Object:  	Database [DBAdmin]    
+Object:  	Database [DBAdmin_QA]    
 Date: 		2016-01-24
 Author: 	Charlton Julius
 Notes: 		Alter Below as necessary for your environment
