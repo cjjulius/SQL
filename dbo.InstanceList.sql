@@ -6,7 +6,7 @@ Author: 	Charlton Julius
 Notes: 		Requires DBAdmin Database
 */
 
-USE [DBAdmin]
+USE [DBAdmin_QA]
 GO
 
 SET ANSI_NULLS ON;
