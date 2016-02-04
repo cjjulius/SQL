@@ -5,7 +5,7 @@ Author: 	Charlton Julius
 Notes: 		Requires DBAdmin Database
 */
 
-USE [DBAdmin]
+USE [DBAdmin_QA]
 GO
 
 /****** Object:  Table [dbo].[ServerList]    Script Date: 1/24/2016 3:50:05 PM ******/
