@@ -4,13 +4,13 @@ GO
 SET QUOTED_IDENTIFIER ON;
 GO
 /* 
-Object:		[Utility].[InsertNewServerAndInstance]
+Object:		[Utility].[prInsertNewServerAndInstance]
 Date: 		2016-07-26
 Author: 	Charlton Julius
 Notes: 		Requires DBAdmin_QA Database with Utility Schema, [dbo].[ServerList] and [dbo].[InstanceList]
 */
 
-CREATE PROCEDURE [Utility].[InsertNewServerAndInstance]
+CREATE PROCEDURE [Utility].[prInsertNewServerAndInstance]
 	@ServerName VARCHAR(MAX)
    ,@InstanceName VARCHAR(MAX)
 AS
