@@ -5,7 +5,7 @@ SET QUOTED_IDENTIFIER ON;
 GO
 
 /*********************************************************************
-Author : cjulius
+Author : cjjulius
 Created : 2017-05-16
 Description : Compresses tables in non-system databases that are older 
 	than a certain date and reside in a specific schema.
@@ -14,7 +14,7 @@ CHANGES:
 
 Name		DATE        REASON
 ------   	-------		--------
-cjulius	2017-05-21	Created
+cjjulius	2017-05-21	Created
 
 *********************************************************************/
 CREATE PROCEDURE [Utility].[prCompressCleanupTables]
