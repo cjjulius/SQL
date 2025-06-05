@@ -1,2 +1,2 @@
-# SQL
-SQL Scripts and DDL
+# Deprecated SQL
+Random SQL Scripts for Blog posts and deprecation graveyard.
